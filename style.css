@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-color:black;
+    color:white ;
+}
+
+header{
+    height: 100%;
+    width: 25%;
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: rgba(50, 43, 43, 0.622);
+}
+
+
+.first-home {
+    padding: 10px;
+}
+.Last-child{
+    padding: 10px;
+    border-bottom:2px solid grey ;
+}
+.subscription{
+    margin-top: 50px;
+}
+.subscription img {
+    display: inline;
+    padding: 10px;
+}
+
+.first-seg img{
+padding: 5px;
+margin: 2px;
+}
+
+.second-seg nav img{
+padding: 5px;
+margin: 2px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
